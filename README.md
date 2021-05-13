@@ -6,4 +6,3 @@
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=nxxh447)](https://github.com/nxxh447/github-readme-stats)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxxh447&layout=compact)](https://github.com/nxxh447/github-readme-stats)
-[![Lang stats](https://github-readme-stats.vercel.app/api/wakatime?username=nxxh447)](https://github.com/nxxh447/github-readme-stats)
