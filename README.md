@@ -1,3 +1,5 @@
+## About Me
+
 - 👋 Hi, I’m @nxxh447
 - 👀 I’m interested in fontend development
 - 🌱 I’m currently learning javascript
@@ -7,3 +9,9 @@
 [![My stats](https://github-readme-stats.vercel.app/api?username=nxxh447)](https://github.com/nxxh447/github-readme-stats)
 <br></br>
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxxh447&layout=compact)](https://github.com/nxxh447/github-readme-stats)
+
+## Coding languages:
+
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=for-the-badge&logo=javascript&logoColor=white" /><br> (learning)
+<img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
+<img alt="CSS" src="https://img.shields.io/badge/-CSS-9B18BB?style=for-the-badge&logo=css3&logoColor=white" /><br>
