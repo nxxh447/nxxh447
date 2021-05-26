@@ -14,5 +14,9 @@
 ## Coding languages I use/know:
 
 <ul>
-  <li>ex</li>
+  <li>html</li>
+  <li>css</li>
+  <li>scss</li>
+  <li>sass</li>
+  <li>ejs/li>
 </ul>
