@@ -3,8 +3,6 @@
 - 👋 Hi, I’m @nxxh447
 - 👀 I’m interested in: fontend development
 - 💞️ I’m looking to collaborate on: anything really
-- 📚 Language's I know: html, css/scss/sass
-- 🏫 Language's I'm learning: js, c#
 - 📫 How to reach me: discord (nxxh#7777) and twitter (@nxxh447)
 <br></br>
 [![My stats](https://github-readme-stats.vercel.app/api?username=nxxh447)](https://github.com/nxxh447/github-readme-stats)
@@ -26,4 +24,12 @@
 <ul>
   <li>bootstrap</li>
   <li>node.js (not sure if this could be clasified as a library but whatever)</li>
+</ul>
+
+## Languages I'm learning
+
+<ul>
+  <li>c (put on hold)</li>
+  <li>c#</li>
+  <li>js (put on hold)</li>
 </ul>
