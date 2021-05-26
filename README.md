@@ -13,5 +13,6 @@
 
 ## Coding languages I use/know:
 
-<img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
-<img alt="CSS" src="https://img.shields.io/badge/-CSS-9B18BB?style=for-the-badge&logo=css3&logoColor=white" /><br>
+<ul>
+  <li>ex</li>
+</ul>
