@@ -10,7 +10,7 @@
 <br></br>
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxxh447&layout=compact)](https://github.com/nxxh447/github-readme-stats)
 
-## Coding languages I know/use:
+## Languages I know/use:
 
 <ul>
   <li>html</li>
