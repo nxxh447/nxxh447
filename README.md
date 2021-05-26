@@ -1,9 +1,9 @@
 ## About Me
 
 - 👋 Hi, I’m @nxxh447
-- 👀 I’m interested in: fontend development
-- 💞️ I’m looking to collaborate on: anything really
-- 📫 How to reach me: discord (nxxh#7777) and twitter (@nxxh447)
+- 👀 I’m interested in fontend development
+- 💞️ I’m looking to collaborate on anything really
+- 📫 How to reach me: discord (.nxxh <3#7777) and twitter (@nxxh447)
 <br></br>
 [![My stats](https://github-readme-stats.vercel.app/api?username=nxxh447)](https://github.com/nxxh447/github-readme-stats)
 <br></br>
