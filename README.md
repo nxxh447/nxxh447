@@ -33,6 +33,3 @@
   <li>c#</li>
   <li>js (put on hold)</li>
 </ul>
-
-
-1
