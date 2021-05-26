@@ -20,7 +20,7 @@
   <li>js</li>
 </ul>
 
-## Libraries I use/know:
+## Libraries I know/use:
 
 <ul>
   <li>bootstrap</li>
