@@ -23,7 +23,7 @@
 
 <ul>
   <li>bootstrap</li>
-  <li>node.js (not sure if this could be clasified as a library but whatever)</li>
+  <li>node.js (pretty sure this isnt clasified as a library but whatever)</li>
 </ul>
 
 ## Languages I'm learning
