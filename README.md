@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @nxxh447
 - 👀 I’m interested in: fontend development
-- 💞️ I’m looking to collaborate on: anything really (as long as its frontend)
+- 💞️ I’m looking to collaborate on: anything really
 - 📚 Language's I know: html, css/scss/sass
 - 🏫 Language's I'm learning: js, c#
 - 📫 How to reach me: discord (nxxh#7777) and twitter (@nxxh447)
