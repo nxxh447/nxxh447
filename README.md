@@ -25,5 +25,5 @@
 
 <ul>
   <li>bootstrap</li>
-  <li>node.js</li>
+  <li>node.js (not sure if its clasified as a library but whatever)</li>
 </ul>
