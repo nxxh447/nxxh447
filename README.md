@@ -18,5 +18,5 @@
   <li>css</li>
   <li>scss</li>
   <li>sass</li>
-  <li>ejs/li>
+  <li>js</li>
 </ul>
