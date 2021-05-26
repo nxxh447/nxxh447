@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me: discord (.nxxh <3#7777) and twitter (@nxxh447)
 <br></br>
+
+## My stats
 [![My stats](https://github-readme-stats.vercel.app/api?username=nxxh447)](https://github.com/nxxh447/github-readme-stats)
 <br></br>
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxxh447&layout=compact)](https://github.com/nxxh447/github-readme-stats)
