@@ -25,6 +25,7 @@
 <ul>
   <li>bootstrap</li>
   <li>node.js (pretty sure this isnt clasified as a library but whatever)</li>
+  <li>jquery<li>
 </ul>
 
 ## Languages I'm learning
