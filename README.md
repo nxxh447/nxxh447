@@ -32,6 +32,6 @@
 
 <ul>
   <li>c (put on hold)</li>
-  <li>c#</li>
-  <li>js (put on hold)</li>
+  <li>c# (put on hold)</li>
+  <li>js</li>
 </ul>
