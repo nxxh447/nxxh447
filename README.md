@@ -20,11 +20,11 @@
   <li>js</li>
 </ul>
 
-## Libraries I know/use:
+## Libraries/frameworks I know/use:
 
 <ul>
   <li>bootstrap</li>
-  <li>node.js (not 100% sure if this is clasified as a library)</li>
+  <li>node.js</li>
   <li>jquery</li>
 </ul>
 
