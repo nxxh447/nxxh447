@@ -26,6 +26,7 @@
   <li>bootstrap</li>
   <li>node.js</li>
   <li>jquery</li>
+  <li>discord.js</li>
 </ul>
 
 ## Languages I'm learning
