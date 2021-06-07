@@ -16,7 +16,7 @@
   <li>html</li>
   <li>css</li>
   <li>scss/sass</li>
-  <li>js</li> (learning)
+  <li>js (learning  :(  )</li>
 </ul>
 
 ## Libraries/frameworks I know/use:
