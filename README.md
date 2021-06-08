@@ -24,7 +24,7 @@
 <ul>
   <li>bootstrap</li>
   <li>node.js</li>
-  <li>jquery</li>
+  <li>jquery (learning)</li>
   <li>discord.js</li>
 </ul>
 
