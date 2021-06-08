@@ -31,7 +31,7 @@
 ## Languages I'm learning
 
 <ul>
-  <li>c (put on hold)</li>
+  <li>cpp</li>
   <li>js</li>
   <li>shell (scripting i know)</li>
 </ul>
