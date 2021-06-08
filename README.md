@@ -16,7 +16,7 @@
   <li>html</li>
   <li>css</li>
   <li>scss/sass</li>
-  <li>js (learning  :(  )</li>
+  <li>js (learning)</li>
 </ul>
 
 ## Libraries/frameworks I know/use:
@@ -33,4 +33,5 @@
 <ul>
   <li>c (put on hold)</li>
   <li>js</li>
+  <li>shell (scripting i know)</li>
 </ul>
