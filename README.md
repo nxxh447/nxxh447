@@ -26,12 +26,12 @@
   <li>node.js</li>
   <li>jquery (learning)</li>
   <li>discord.js</li>
+  <li>div.js (lmao)</li>
 </ul>
 
 ## Languages I'm learning
 
 <ul>
-  <li>cpp</li>
   <li>js</li>
   <li>shell (scripting i know)</li>
 </ul>
