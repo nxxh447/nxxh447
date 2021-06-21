@@ -23,7 +23,7 @@
 
 <ul>
   <li>bootstrap</li>
-  <li>node.js</li>
+  <li>node.js (learning)</li>
   <li>jquery (learning)</li>
   <li>discord.js</li>
   <li>div.js (lmao)</li>
