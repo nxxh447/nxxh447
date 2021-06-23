@@ -15,7 +15,7 @@
 <ul>
   <li>html</li>
   <li>css</li>
-  <li>scss/sass</li>
+  <li>scss</li>
   <li>js (learning)</li>
 </ul>
 
