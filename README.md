@@ -22,7 +22,7 @@
 ## Libraries/frameworks I know/use:
 
 <ul>
-  <li>bootstrap</li>
+  <li>bootstrap (learning)</li>
   <li>node.js (learning)</li>
   <li>jquery (learning)</li>
   <li>discord.js</li>
