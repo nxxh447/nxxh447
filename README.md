@@ -27,9 +27,9 @@
   <li>div.js (lmao)</li>
 </ul>
 
-## Languages I'm learning
+## Languages I'm learning/want to learn
 
 <ul>
   <li>js</li>
-  <li>shell (scripting i know)</li>
+  <li>python</li>
 </ul>
