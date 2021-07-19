@@ -8,7 +8,7 @@
 ## My stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=nxxh447&show_icons=true&theme=dark)
 <br></br>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxxh447&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages I know/use:
 
