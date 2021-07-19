@@ -6,7 +6,7 @@
 - 📫 How to reach me: discord (`nxxh ♥#0187`) and twitter (`@nxxh447`)
 
 ## My stats
-[![My stats](https://github-readme-stats.vercel.app/api?username=nxxh447)](https://github.com/nxxh447/github-readme-stats)
+![My stats](https://github-readme-stats.vercel.app/api?username=nxxh447&show_icons=true&theme=dark)
 <br></br>
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxxh447&layout=compact)](https://github.com/nxxh447/github-readme-stats)
 
