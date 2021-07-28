@@ -6,6 +6,7 @@
 - 📫 How to reach me: discord (`nxxh ♥#0187`) and twitter (`@nxxh447`)
 
 ## My stats
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nxxh447.visitor-badge)
 ![My stats](https://github-readme-stats.vercel.app/api?username=nxxh447&show_icons=true&theme=dark)
 <br></br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxxh447&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
