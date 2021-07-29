@@ -22,8 +22,7 @@
 ## Libraries/frameworks I know/use:
 
 <ul>
-  <li>bootstrap (learning)</li>
-  <li>jQuery (on hold)</li>
+  <li>bootstrap (learning (O.H.))</li>
   <li>div.js (lmao)</li>
 </ul>
 
