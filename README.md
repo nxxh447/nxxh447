@@ -10,6 +10,7 @@
 ![My stats](https://github-readme-stats.vercel.app/api?username=nxxh447&show_icons=true&theme=dark)
 <br></br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxxh447&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Other lang stats](https://github-readme-stats.vercel.app/api/wakatime?username=nxxh447)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages I know/use:
 
 <ul>
