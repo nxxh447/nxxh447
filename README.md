@@ -30,5 +30,4 @@
 
 <ul>
   <li>js</li>
-  <li>python</li>
 </ul>
