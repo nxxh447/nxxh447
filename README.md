@@ -23,7 +23,6 @@
 
 <ul>
   <li>bootstrap (learning (O.H.))</li>
-  <li>div.js (lmao)</li>
 </ul>
 
 ## Languages I'm learning/want to learn
