@@ -23,10 +23,12 @@
 
 <ul>
   <li>bootstrap (learning (O.H.))</li>
+  <li>discord.js</li>
 </ul>
 
 ## Languages I'm learning/want to learn
 
 <ul>
   <li>js</li>
+  <li>java</li>
 </ul>
