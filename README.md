@@ -1,8 +1,8 @@
 ## About Me
 
 - 👋 Hi, I’m @nxxh447
-- 👀 I’m interested in front-end development
-- 💞️ I’m looking to collaborate on anything really
+- 👀 I’m interested in front and back-end development
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: discord (`nxxh ♥#0187`) and twitter (`@nxxh447`)
 
 ## My stats
