@@ -30,5 +30,5 @@
 
 <ul>
   <li>js</li>
-  <li>java</li>
+  <li>go</li>
 </ul>
