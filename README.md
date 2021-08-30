@@ -15,8 +15,8 @@
 <ul>
   <li>html</li>
   <li>css/scss</li>
-  <li>js (learning)</li>
-  <lu>go (learning)</li>
+  <li>JavaScript (learning)</li>
+  <lu>GOlang (learning)</li>
 </ul>
 
 ## Libraries/frameworks I know/use:
@@ -29,6 +29,6 @@
 ## Languages I'm learning/want to learn
 
 <ul>
-  <li>js</li>
-  <li>go</li>
+  <li>JavaScript</li>
+  <li>GOlang</li>
 </ul>
