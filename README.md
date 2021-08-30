@@ -14,9 +14,9 @@
 
 <ul>
   <li>html</li>
-  <li>css</li>
-  <li>scss</li>
+  <li>css/scss</li>
   <li>js (learning)</li>
+  <lu>go (learning)</li>
 </ul>
 
 ## Libraries/frameworks I know/use:
