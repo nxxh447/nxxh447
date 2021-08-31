@@ -16,7 +16,7 @@
   <li>html</li>
   <li>css/scss</li>
   <li>JavaScript (learning)</li>
-  <li>GOlang (learning)</li>
+  <li>golang (learning)</li>
 </ul>
 
 ## Libraries/frameworks I know/use:
@@ -30,5 +30,6 @@
 
 <ul>
   <li>JavaScript</li>
-  <li>GOlang</li>
+  <li>golang</li>
+  <li>python</li>
 </ul>
