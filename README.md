@@ -31,5 +31,5 @@
 <ul>
   <li>JavaScript</li>
   <li>golang</li>
-  <li>python</li>
+  <li>java</li>
 </ul>
