@@ -17,6 +17,7 @@
   <li>css/scss</li>
   <li>JavaScript (learning)</li>
   <li>golang (learning)</li>
+  <li>java (learning)</li>
 </ul>
 
 ## Libraries/frameworks I know/use:
