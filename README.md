@@ -15,14 +15,14 @@
 <ul>
   <li>html</li>
   <li>css/scss</li>
-  <li>JavaScript (learning)</li>
-  <li>golang (learning)</li>
+  <li>JavaScript (sl)</li>
+  <li>golang (sl)</li>
 </ul>
 
 ## Libraries/frameworks I know/use:
 
 <ul>
-  <li>bootstrap (learning (O.H.))</li>
+  <li>bootstrap (sl(oh))</li>
   <li>discord.js</li>
 </ul>
 
