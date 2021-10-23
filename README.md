@@ -20,11 +20,12 @@
   <li>golang (sl)</li>
 </ul>
 
-## Libraries/frameworks I know/use:
+## Libraries/frameworks/tools I know/use:
 
 <ul>
   <li>bootstrap (sl(oh))</li>
   <li>discord.js</li>
+  <li>webview</li>
 </ul>
 
 ## Languages I'm learning/want to learn
