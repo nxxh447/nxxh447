@@ -1,5 +1,6 @@
 ## About Me
 
+- ❗ CHECKOUT THE GITHUB GROUP "Omvik" FOR MORE OF MY WORK (i post my good work under the group)
 - 👋 Hi, I’m @nxxh447
 - 👀 I’m interested in front and back-end development
 - 💞️ I’m looking to collaborate on anything
