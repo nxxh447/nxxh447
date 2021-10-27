@@ -14,23 +14,13 @@
 ## Languages I know/use:
 
 <ul>
-  <li>html</li>
-  <li>css/scss</li>
-  <li>JavaScript (sl)</li>
-  <li>golang (sl)</li>
+  <li>html/css/scss/JavaScript</li>
+  <li>golang</li>
 </ul>
 
 ## Libraries/frameworks/tools I know/use:
 
 <ul>
-  <li>bootstrap (sl(oh))</li>
   <li>discord.js</li>
-  <li>webview</li>
-</ul>
-
-## Languages I'm learning/want to learn
-
-<ul>
-  <li>JavaScript</li>
-  <li>golang</li>
+  <li>WebView2 (go)</li>
 </ul>
