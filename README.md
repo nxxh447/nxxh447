@@ -1,6 +1,6 @@
 ## About Me
 
-- ❗ __!!!CHECKOUT THE GITHUB GROUP <a href="https://github.com/Omvik">"OMVIK"</a> FOR MORE OF MY WORK!!!__
+- ❗ __!!!CHECKOUT THE GITHUB GROUP <a href="https://github.com/Omvik">"OMVIK"</a> FOR All OF MY WORK!!!__
 - 📫 How to reach me: discord (`nxxh ♥#0187`) and twitter (`@nxxh447`)
 
 ## My stats
