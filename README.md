@@ -4,7 +4,7 @@
 
 Hey, im nxxh, I usually do backend work, but sometimes i do frontend,
 <br>
-heres what i know:
+heres what i use:
 <br>
 <br>
 languages:
@@ -16,9 +16,8 @@ languages:
 i also work with:
 - discord.js
 - pug/pug.js
-- jQuery
 - WebView2
 - node.js
-- c/c++/asm (not a lib or a fw but i use them)
+- c/c++/asm (not a lib or a fw but I've been fiddling with them lately)
 
 you can also find most of my work <a href="https://github.com/Omvik">****__here__****</a>
