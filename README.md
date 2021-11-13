@@ -4,10 +4,10 @@
 
 Hey, im nxxh, I usually do backend work, but sometimes i do frontend,
 <br>
-heres what i use:
+here's some stuff about me ig...:
 <br>
 <br>
-languages:
+here's what i use:
 - html/css/scss/sass
 - javascript
 - golang
