@@ -4,7 +4,10 @@
 
 Hey, im nxxh, I usually do backend work, but sometimes i do frontend,
 <br>
-i know:
+heres what i know:
+<br>
+<br>
+languages:
 - html/css/scss/sass
 - javascript
 - golang
