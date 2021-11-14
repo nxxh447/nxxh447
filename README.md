@@ -1,6 +1,6 @@
 ## About Me
 
-<img src="banner.png">
+<img src="./assets/banner.png">
 
 Hey, im nxxh, I usually do backend work, but sometimes i do frontend,
 <br>
