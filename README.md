@@ -1,6 +1,7 @@
 ## About Me
 
 <img src="https://github.com/nxxh447/nxxh447/blob/main/banner.png?raw=true">
+<img src="banner.png">
 
 Hey, im nxxh, I usually do backend work, but sometimes i do frontend,
 <br>
