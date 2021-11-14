@@ -7,7 +7,7 @@ Hey, im nxxh, I usually do backend work, but sometimes i do frontend,
 here's some stuff about me ig...
 <br>
 <br>
-here's what i aminly use:
+here's what i mainly use:
 - golang
 - javascript
 
