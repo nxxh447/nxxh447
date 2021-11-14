@@ -4,16 +4,20 @@
 
 Hey, im nxxh, I usually do backend work, but sometimes i do frontend,
 <br>
-here's some stuff about me ig...:
+here's some stuff about me ig...
 <br>
 <br>
-here's what i use:
+here's what i aminly use:
+- golang
+- javascript
+
+here's also what i use:
 - html/css/scss/sass
 - javascript
 - golang
 - bash/shell
 
-i also work with:
+but i also work with:
 - discord.js
 - pug/pug.js
 - WebView2
