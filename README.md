@@ -25,4 +25,4 @@ but i also work with:
 - c/c++/asm (not a lib or a fw but ive been fiddling with them lately)
 
 <br>
-<p align="center">you can also find most of my work <a href="https://github.com/Omvik">__here__</a></p>
+>you can also find most of my work <a href="https://github.com/Omvik">*****__here__*****</a>
