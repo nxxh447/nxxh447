@@ -24,4 +24,4 @@ but i also work with:
 - node.js
 - c/c++/asm (not a lib or a fw but ive been fiddling with them lately)
 
-you can also find most of my work <a href="https://github.com/Omvik">****__here__****</a>
+<p align="center">you can also find most of my work <a href="https://github.com/Omvik">****__here__****</a></p>
