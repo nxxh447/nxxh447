@@ -24,4 +24,4 @@ but i also work with:
 - WebView2
 - node.js
 
-you can also find some other stuff <a href="https://github.com/Omvik">****__here__****</a>
+you can also find a lot of my work <a href="https://github.com/Omvik">****__here__****</a>
