@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png" alt="banner">
 
-Hey, im nxxh, here's some stuff about me ig...
+Hey, im nxxh, here's some stuff about me ig... you can also find a lot of my work <a href="https://github.com/Omvik">****__here__****</a>
 <br>
 <br>
 here's what i mainly use:
@@ -23,5 +23,3 @@ but i also work with:
 - pug/pug.js
 - WebView2
 - node.js
-
-you can also find a lot of my work <a href="https://github.com/Omvik">****__here__****</a>
