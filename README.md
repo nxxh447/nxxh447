@@ -8,12 +8,16 @@ Hey, im nxxh, here's some stuff about me ig...
 here's what i mainly use:
 - golang
 - javascript
+
 <br>
+
 here's also what i use:
 - html/css/scss/sass
 - javascript
 - golang
+
 <br>
+
 but i also work with:
 - discord.js
 - pug/pug.js
