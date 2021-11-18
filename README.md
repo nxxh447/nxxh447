@@ -13,7 +13,7 @@ here's also what i use:
 - html/css/scss/sass
 - javascript
 - golang
-- 
+
 but i also work with:
 - discord.js
 - pug/pug.js
