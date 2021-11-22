@@ -12,9 +12,10 @@ here's what i mainly use:
 <br>
 
 here's also what i use:
-- html/css/scss/sass
-- javascript
-- golang
+- html
+- css/scss/sass
+- java
+- c
 
 <br>
 
