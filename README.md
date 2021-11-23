@@ -7,14 +7,14 @@ Hey, im nxxh, here's some stuff about me ig... you can also find a lot of my wor
 <br>
 here's what i mainly use:
 - golang
+- java
 - javascript
 
 <br>
 
 here's also what i use:
 - html
-- css/scss/sass
-- java
+- css/scss
 - c
 
 <br>
