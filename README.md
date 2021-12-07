@@ -6,15 +6,15 @@ Hey, im nxxh, here's some stuff about me ig... you can also find a lot of my wor
 <br>
 <br>
 here's what i mainly use:
-- golang
-- java
 - javascript
+- html/css
+- golang
 
 <br>
 
 here's also what i use:
-- html
-- css/scss
+- java
+- scss/less
 - c
 
 <br>
@@ -22,8 +22,9 @@ here's also what i use:
 but i also work with:
 - discord.js
 - pug/pug.js
-- WebView2
+- WebView2 (go)
 - node.js
+- electron.js
 
 ## Stats
 
