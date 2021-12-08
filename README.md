@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png" alt="banner">
 
-Hey, im nxxh, here's some stuff about me ig... you can also find a lot of my work <a href="https://github.com/Omvik">****__here__****</a>
+Hey, im nxxh, here's some stuff about me ig...
 <br>
 <br>
 here's what i mainly use:
