@@ -29,6 +29,5 @@ but i also work with:
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nxxh447&layout=compact&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
-[Metrics](https://metrics.lecoq.io/nxxh447)
-
+<img src="https://metrics.lecoq.io/nxxh447">
 <!-- &theme=dark -->
