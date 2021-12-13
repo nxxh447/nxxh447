@@ -26,12 +26,11 @@ but i also work with:
 - node.js
 - electron.js
 
-<details>
-  <summary>Stats</summary>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nxxh447&layout=compact&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nxxh447&theme=dark&fire=4B8DDA&ring=4B8DDA&background=0D1117&currStreakLabel=77AADA&hide_border=true)](https://git.io/streak-stats)
-  [![nxxh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nxxh447&bg_color=0D1117&hide_border=true&color=4B8DDA&line=4B8DDA&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</details>
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nxxh447&layout=compact&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nxxh447&theme=dark&fire=4B8DDA&ring=4B8DDA&background=0D1117&currStreakLabel=77AADA&hide_border=true)](https://git.io/streak-stats)
+[![nxxh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nxxh447&bg_color=0D1117&hide_border=true&color=4B8DDA&line=4B8DDA&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- &theme=dark -->
 
