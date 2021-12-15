@@ -30,8 +30,8 @@ but i also work with:
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=nxxh447&layout=compact&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://activity-graph.herokuapp.com/graph?username=nxxh447&bg_color=0D1117&hide_border=true&color=4B8DDA&line=4B8DDA&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![](https://github-readme-stats.vercel.app/api?username=nxxh447&count_private=true&show_icons=true&theme=light&border_radius=0&include_all_commits=true&locale=en&)](https://github.com/nxxh447)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nxxh447&repo=nx-client)](https://github.com/nxxh447/nx-client)]
+[![](https://github-readme-stats.vercel.app/api?username=nxxh447&count_private=true&show_icons=true&theme=light&border_radius=0&include_all_commits=true&card_width=1000)](https://github.com/nxxh447)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nxxh447&repo=nx-client&card_width=1000)](https://github.com/nxxh447/nx-client)](https://github.com/nxxh447)
 
 
 <!-- &theme=dark -->
