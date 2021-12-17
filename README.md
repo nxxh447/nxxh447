@@ -17,9 +17,7 @@ but i also work with:
 - WebView2 (go)
 - node.js
 - electron.js
-- java
 - sass/scss
-- clang
 
 ## Stats
 
