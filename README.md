@@ -14,14 +14,13 @@ here's what i mainly use:
 
 here's also what i use:
 - java
-- scss/less
+- sass/scss
 - c
 
 <br>
 
 but i also work with:
 - discord.js
-- pug/pug.js
 - WebView2 (go)
 - node.js
 - electron.js
