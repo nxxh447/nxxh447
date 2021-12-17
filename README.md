@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png" alt="banner">
 
-Hey, im nxxh, here's some stuff about me ig...
+Hey, im nxxh, here's some stuff about me ig... oh yea and you should maybe like look at [this](https://github.com/nxxh447/nx-client/) or something...
 <br>
 <br>
 here's what i mainly use:
