@@ -12,18 +12,15 @@ here's what i mainly use:
 
 <br>
 
-here's also what i use:
-- java
-- sass/scss
-- c
-
-<br>
-
 but i also work with:
 - discord.js
 - WebView2 (go)
 - node.js
 - electron.js
+---
+- java
+- sass/scss
+- clang
 
 ## Stats
 
