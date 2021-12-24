@@ -18,6 +18,7 @@ but i also work with:
 - node.js
 - electron.js
 - sass/scss
+- java
 
 ## Stats
 
