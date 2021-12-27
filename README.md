@@ -9,6 +9,7 @@ here's what i mainly use:
 - javascript
 - html/css
 - golang
+- C/ASM
 
 <br>
 
