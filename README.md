@@ -5,11 +5,9 @@
 Hey, im nxxh, here's some stuff about me ig... oh yea and you should maybe like look at [this](https://github.com/nxxh447/nx-client/) or something...
 <br>
 <br>
-here's what i mainly use:
+here's what i mainly have been working with:
 - javascript
 - html/css
-- golang
-- C/ASM
 
 <br>
 
@@ -20,6 +18,8 @@ but i also work with:
 - electron.js
 - sass/scss
 - java
+- C/ASM
+- golang
 
 ## Stats
 
