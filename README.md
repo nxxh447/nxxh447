@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png" alt="banner">
 
-<h3>im looking for project ideas ! ! ! ! dm me on twitter or som'thin</h3>
+<h6>im lookin' for project ideas ! ! ! ! dm me on twitter or som'thin</h6>
 
 Hey, im nxxh, here's some stuff about me ig... oh yea and you should maybe like look at [this](https://github.com/nxxh447/nx-client/) or something...
 <br>
