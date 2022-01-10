@@ -5,13 +5,13 @@
 Hey, im nxxh, here's some stuff about me ig... oh yea and you should maybe like look at [this](https://github.com/nxxh447/nx-client/) or something...
 <br>
 <br>
-here's what i mainly have been working with:
+here's what i have been working with recently:
 - javascript
 - html/css
 
 <br>
 
-but i also work with:
+but i also kinda like work with:
 - discord.js
 - WebView2 (go)
 - node.js
