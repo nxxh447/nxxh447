@@ -15,13 +15,13 @@ here's what i have been working with recently:
 
 but i also kinda like work with:
 - discord.js
-- WebView2 (go)
 - node.js
 - electron.js
+- webview2 (go)
 - sass/scss
 - java
-- C/ASM
-- golang
+- c/asm
+- go
 
 ## Stats
 
