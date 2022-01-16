@@ -20,7 +20,7 @@ but i also kinda like work with:
 - webview2 (go)
 - sass/scss
 - java
-- c/asm
+- c/asm (learning)
 - go
 
 ## Stats
