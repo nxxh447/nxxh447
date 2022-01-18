@@ -19,8 +19,7 @@ but i also kinda like work with:
 - electron.js
 - webview2 (go)
 - sass/scss
-- java
-- c/asm (learning)
+- c/asm (still learning!)
 - go
 
 ## Stats
