@@ -7,12 +7,12 @@ Hey, im nxxh, here's some stuff about me ig... oh yea and you should maybe like 
 here's what i have been working with recently:
 - javascript
 - html/css
+- node.js
 
 <br>
 
 but i also kinda like work with:
 - discord.js
-- node.js
 - electron.js
 - webview2 (go)
 - sass/scss
