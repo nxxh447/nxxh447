@@ -8,6 +8,7 @@ here's what i have been working with recently:
 - javascript
 - html/css
 - node.js
+- C
 
 <br>
 
