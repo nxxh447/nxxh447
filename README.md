@@ -8,16 +8,15 @@ here's what i have been working with recently:
 - javascript
 - html/css
 - node.js
+- discord.js
 - C
 
 <br>
 
 but i also kinda like work with:
-- discord.js
 - electron.js
 - webview2 (go)
 - sass/scss
-- c/asm (still learning!)
 - go
 
 ## Stats
