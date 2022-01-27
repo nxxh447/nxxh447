@@ -8,8 +8,6 @@ here's what i have been working with recently:
 - javascript
 - html/css
 - node.js
-- discord.js
-- C
 
 <br>
 
@@ -18,6 +16,8 @@ but i also kinda like work with:
 - webview2 (go)
 - sass/scss
 - go
+- C
+- discord.js
 
 ## Stats
 
