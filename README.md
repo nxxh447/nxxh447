@@ -1,7 +1,7 @@
 <img src="./assets/banner.png" alt="banner">
 <h6>im lookin' for project ideas ! ! ! ! dm me on twitter or somthin' ! ! ! ! !</h6>
 
-Hey, im nxxh, here's some stuff about me ig... oh yea and you should maybe like look at [this](https://github.com/nxxh447/nxProxy/) or something...
+Hey, im nxxh, here's some stuff about me ig... <!-- oh yea and you should maybe like look at [this](INSERT_LINK_TO_CURRENT_PROJECT_HERE) or something... -->
 <br>
 <br>
 here's what i have been working with recently:
