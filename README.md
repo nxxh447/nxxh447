@@ -15,8 +15,6 @@ but i also kinda like work with:
 - electron.js
 - webview2 (go)
 - sass/scss
-- go
-- C
 - discord.js
 
 ## Stats
