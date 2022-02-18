@@ -2,7 +2,7 @@
 <h6>im lookin' for project ideas ! ! ! ! dm me on twitter or somthin' ! ! ! ! !</h6>
 
 <!--
-Hey, im nxxh, here's some stuff about me ig... <!-- oh yea and you should maybe like look at [this](INSERT_LINK_TO_CURRENT_PROJECT_HERE) or something... -->
+Hey, im nxxh, here's some stuff about me ig... <comment here oh yea and you should maybe like look at [this](INSERT_LINK_TO_CURRENT_PROJECT_HERE) or something... comment here>
 <br>
 <br>
 here's what i have been working with recently:
@@ -21,7 +21,7 @@ but i also kinda like work with:
 
 ## Stats
 
-<img width="900" height="400" src="https://metrics.lecoq.io/nxxh447?template=classic&lines=1&repositories=1&languages=1&isocalendar=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York">
+<img width="500" height="900" src="https://metrics.lecoq.io/nxxh447?template=classic&lines=1&repositories=1&languages=1&isocalendar=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York">
 
 
 <!--
