@@ -21,7 +21,9 @@ but i also kinda like work with:
 
 ## Stats
 
-<img width="500" height="900" src="https://metrics.lecoq.io/nxxh447?template=classic&lines=1&repositories=1&languages=1&isocalendar=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York">
+<div align="center">
+    <img width="500" src="https://metrics.lecoq.io/nxxh447?template=classic&lines=1&repositories=1&languages=1&isocalendar=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York">
+</div>
 
 
 <!--
