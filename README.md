@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="banner">
+<img src="./assets/NewBanner.png" alt="banner">
 <div align="center"><h6>im lookin' for project ideas ! ! ! ! dm me on twitter or somthin' ! ! ! ! !</h6></div>
 
 Hey, im nxxh, here's some stuff about me ig... <!-- oh yea and you should maybe like look at [this](https://github.com/nxxh447/) or something... -->
