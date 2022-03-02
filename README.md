@@ -3,8 +3,6 @@
 
 Hey, im nxxh, here's some stuff about me ig... <!-- oh yea and you should maybe like look at [this](https://github.com/nxxh447/) or something... -->
 
-<br><br>
-
 here's what i mainly work with:
 - javascript
 - html/css
