@@ -1,7 +1,6 @@
 <img src="./assets/newbannn.jpg" alt="banner">
-<div align="center"><h6>im lookin' for project ideas ! ! ! ! dm me on twitter or somthin' ! ! ! ! !</h6></div>
 
-Hey, im nxxh, here's some stuff about me ig... <!-- oh yea and you should maybe like look at [this](https://github.com/nxxh447/) or something... -->
+Hey, im nxxh, here's some stuff about me ig... oh yea and you should maybe like look at [this](https://github.com/nx-0/) or something...
 
 here's what i mainly work with:
 - javascript
