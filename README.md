@@ -1,10 +1,10 @@
 <img src="./assets/newbannn.jpg" alt="banner">
 
-Hey, im nxxh, here's some stuff about me ig... oh yea and you should maybe like look at [this](https://github.com/nx-0/) or something...
+Hey, im nxxh, here's some stuff about me ig... oh yea and you should maybe like look at [this](https://github.com/nx-0/) or something...<br>
+I've pretty much decided I'm exclusivly a JavaScript dev from now on (looking into TypeScript).
 
 here's what i mainly work with:
 - javascript
-- html/css
 - node.js
 - discord.js
 
@@ -12,7 +12,7 @@ here's what i mainly work with:
 
 but sometimes i work with:
 - electron.js
-- webview2 (go)
+- html/css
 
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=nxxh447&layout=compact&card_width=1001)](https://github.com/nxxh447/nxxh447)
