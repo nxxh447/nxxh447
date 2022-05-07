@@ -1,7 +1,7 @@
 <img src="./assets/newbannn.jpg" alt="banner">
 
 Hey, im nxxh, here's some stuff about me ig... oh yea and you should maybe like look at [this](https://github.com/nx-0/) or something...<br>
-I've pretty much decided I'm exclusivly a JavaScript dev from now on (looking into TypeScript).
+I've pretty much decided I'm exclusivly a JavaScript dev from now on (looking into TypeScript). I don't really do anything with css anymore so don't ask.
 
 here's what i mainly work with:
 - javascript
