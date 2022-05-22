@@ -1,19 +1,20 @@
 <img src="./assets/newbannn.jpg" alt="banner">
 
 Hey, im nxxh, here's some stuff about me ig... oh yea and you should maybe like look at [this](https://github.com/nx-0/) or something...<br>
-I've pretty much decided I'm exclusivly a JavaScript dev from now on (looking into TypeScript)<br>
-and I don't really do anything with css anymore so don't ask.
+I'm pretty much a JavaScript/TypeScript dev for the most part<br>
 
 here's what i mainly work with:
 - javascript
 - node.js
 - discord.js
+- golang
 
 <br>
 
 but sometimes i work with:
 - electron.js
 - html/css
+- rust (learning some)
 
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=nxxh447&layout=compact&card_width=1001)](https://github.com/nxxh447/nxxh447)
