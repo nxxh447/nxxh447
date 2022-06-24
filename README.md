@@ -9,7 +9,6 @@ here's what i mainly work with:
 - html/css
 
 but sometimes i work with:
-- python
 - discord.js
 - electron.js
 - react.js
