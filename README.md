@@ -1,6 +1,6 @@
 <img src="./assets/newbannn.jpg" alt="banner">
 
-Hey, im nxxh, here's some stuff about me ig... oh yea and you should maybe like look at [this](https://github.com/nxxh447/KrunkerAccountGenerator) or something...<br>
+Hey, im nxxh, here's some stuff about me ig... oh yea and you should maybe like look at [this](https://github.com/nxxh447/PROJECT_HERE) or something...<br>
 I'm pretty much a JavaScript/Golang dev for the most part<br>
 
 here's what i mainly work with:
