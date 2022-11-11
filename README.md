@@ -4,14 +4,13 @@ Hey, im nxxh, here's some stuff about me ig... oh yea and you should maybe like 
 I'm pretty much a JavaScript dev for the most part<br>
 
 here's what i mainly work with:
-- javascript
+- typescript
 - node.js
 - html/css
 
 but sometimes i work with:
 - discord.js
 - electron.js
-- react.js
 - golang
 - c/c++
 
