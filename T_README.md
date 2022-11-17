@@ -1,6 +1,11 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,c,cpp,cloudfare,codepen,css,discord,bots,electron,express,github,githubactions,go,heroku,html,js,md,neovim,nginx,nodejs,ps,powershell,pug,py,raspberrypi,sass,stackoverflow,ts,twitter,vercel,vscode,webpack" />
+    <img src="c,go,html,js,ts,sass,css,md" /> <!-- langs -->
+    <img src="vim,codepen,neovim,vscode" /> <!-- editors -->
+    <img src="cloudfare,githubactions,heroku,vercel" /> <!-- services -->
+    <img src="discord,github,stackoverflow,twitter" /> <!-- platforms -->
+    <img src="electron,express,webpack" /> <!-- libs -->
+    <img src="nodejs,nginx,raspberrypi" /> <!-- misc -->
   </a>
 </p>
 
