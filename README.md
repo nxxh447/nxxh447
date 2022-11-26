@@ -2,7 +2,7 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,go,js,ts,html,css,sass,md&theme=light" /></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,webpack,electron,express&theme=light" /></p>
 
-<p align="center">I am mainly a JavaScript/TypeScript developer but I recently have been learning more C/C++<br />and have been continuing to learn more about low-level technology.</p>
+<p align="center">I am mainly a JavaScript/TypeScript developer.</p>
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=nxxh447&layout=compact&card_width=1001)](https://github.com/nxxh447/nxxh447)
 
