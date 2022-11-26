@@ -1,14 +1,14 @@
+<img src="./assets/banner.png" alt="banner">
+Hey, I'm nxxh. Here's some stuff about me, you should also take a look at [this!](https://github.com/nxxh447/PROJECT_NAME_HERE)<br>
 <p align="center">
-  <img src="c,go,html,js,ts,sass,css,md" /> <!-- langs -->
-  <br>
-  <img src="vim,codepen,neovim,vscode" /> <!-- editors -->
-  <br>
-  <img src="cloudfare,githubactions,heroku,vercel" /> <!-- services -->
-  <br>
-  <img src="discord,github,stackoverflow,twitter" /> <!-- platforms -->
-  <br>
-  <img src="electron,express,webpack" /> <!-- libs -->
-  <br>
-  <img src="nodejs,nginx,raspberrypi" /> <!-- misc -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,js,ts,html,css,sass,less,md&perline=5&theme=light" />
+  <hr />
+  <img src="https://skillicon.dev/icons?i=nodejs,webpack,electron,express&perline=5&theme=light" />
 </p>
+
+<p>I am mainly a JavaScript/TypeScript developer but I recently have been learning more C/C++</p>
+<p>and have been continuing to learn more about low-level technology.</p>
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=nxxh447&layout=compact&card_width=1001)](https://github.com/nxxh447/nxxh447)
+[![](https://activity-graph.herokuapp.com/graph?username=nxxh447&bg_color=0D1117&hide_border=true&color=4B8DDA&line=4B8DDA&point=FFFFFF)](https://github.com/nxxh447/nxxh447)
 
