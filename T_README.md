@@ -1,10 +1,6 @@
 <img src="./assets/banner.png" alt="banner">
-<p>Hey, I'm nxxh. Here's some stuff about me, you should also take a look at [this](https://github.com/nxxh447/PROJECT_NAME_HERE)!</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,js,ts,html,css,sass,less,md&theme=light" />
-  <hr />
-  <img src="https://skillicon.dev/icons?i=nodejs,webpack,electron,express&theme=light" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,go,js,ts,html,css,sass,less,md&theme=light" /></p>
+<p align="center"><img src="https://skillicon.dev/icons?i=nodejs,webpack,electron,express&theme=light" /></p>
 
 <p>I am mainly a JavaScript/TypeScript developer but I recently have been learning more C/C++</p>
 <p>and have been continuing to learn more about low-level technology.</p>
