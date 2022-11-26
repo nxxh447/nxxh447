@@ -1,5 +1,5 @@
-<img src="./assets/banner.png" alt="banner">
-<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,go,js,ts,html,css,sass,less,md&theme=light" /></p>
+<img src="./assets/NEW_BANNER.png" alt="banner">
+<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,go,js,ts,html,css,sass,md&theme=light" /></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,webpack,electron,express&theme=light" /></p>
 
 <p>I am mainly a JavaScript/TypeScript developer but I recently have been learning more C/C++</p>
