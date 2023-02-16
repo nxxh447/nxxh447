@@ -4,5 +4,3 @@
 
 <p align="center">I am mainly a Golang/Typescript developer.</p>
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=nxxh447&layout=compact&card_width=1001)](https://github.com/nxxh447/nxxh447)
-
